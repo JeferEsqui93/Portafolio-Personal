@@ -1,6 +1,6 @@
-Nombre del Proyecto: Sistema POS - [ROSAS_STORE]
+# Sistema POS - [ROSAS_STORE]
 
-📝 Descripción del Proyecto
+## 📝 Descripción del Proyecto
 Este es un Sistema de Punto de Venta (POS) desarrollado en Python usando la librería Tkinter para la interfaz gráfica de usuario. Su propósito es brindar una solución robusta y fácil de usar para la gestión de operaciones comerciales en [TU_TIPO_DE_NEGOCIO, ej., tiendas minoristas, restaurantes pequeños].
 
 El sistema incluye módulos esenciales para:
@@ -11,7 +11,7 @@ El sistema incluye módulos esenciales para:
 - Gestión de proveedores.
 - Generación de reportes básicos para el análisis de operaciones.
 
-✨ Características Destacadas
+## ✨ Características Destacadas
 Interfaz Gráfica Intuitiva (GUI): Desarrollada con Tkinter para una experiencia de usuario fluida y amigable.
 
 Gestión de Sesiones Segura: Módulo de inicio de sesión y creación de usuarios con autenticación básica.
@@ -28,7 +28,7 @@ Manejo de Errores: Incluye gestión básica de excepciones para operaciones de a
 
 Pylint-Clean: Código analizado con Pylint para asegurar estándares de calidad y buenas prácticas (C0116, etc.).
 
-🚀 Cómo Empezar
+## 🚀 Cómo Empezar
 Sigue estos pasos para poner en marcha el Sistema POS en tu máquina local.
 
 Prerrequisitos
@@ -40,3 +40,8 @@ Las librerías adicionales necesarias son:
 - SQLITE (para la gestión de la base de datos)
 - requests (para interactuar con servicios web o APIs externas)
 - BytesIO (para manejar imágenes descargadas)
+
+## 📬 Contacto
+Si tienes dudas o sugerencias, puedes contactarme en:
+- 📧 Email: jefer.esqui93@gmail.com
+- 💼 LinkedIn: [jeferesqui93](https://www.linkedin.com/in/jeferesqui93)
